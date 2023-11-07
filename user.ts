@@ -3,4 +3,5 @@ interface IUser {
   name: string;
   age: number;
   isAdmin: boolean;
+  deleted: boolean;
 }
